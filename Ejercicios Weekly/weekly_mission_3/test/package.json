@@ -1,0 +1,23 @@
+{
+    "name": "my_first_ project_js",
+    "version": "1.1.1",
+    "description": "",
+    "main": "index.js"
+    "scripts": {
+        "start": "node index.js"
+        "test": "node ./node_modules/jest.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SandR4M0ral3z/Playbook.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SandR4M0ral3z/Playbook/issues"
+    },
+    "homepage": "https://github.com/SandR4/Playbook#readme",
+    "devDependencies": {
+        "jest": "27^5.1"
+    }
+}
